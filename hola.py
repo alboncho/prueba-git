@@ -7,3 +7,6 @@ for in range i:
       if false:
          print ("falso")
       print ("nueva linea")
+
+for i in range ():
+   print ("hola")
