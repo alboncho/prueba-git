@@ -10,3 +10,5 @@ for in range i:
 
 for i in range ():
    print ("hola")
+   variable = 10
+   print ()variable
