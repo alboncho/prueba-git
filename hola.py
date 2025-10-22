@@ -12,3 +12,4 @@ for i in range ():
    print ("hola")
    variable = 10
    print ()variable
+   datos = {'hola', 'como', 'estas'}
