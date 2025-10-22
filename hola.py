@@ -20,3 +20,5 @@ for i in range ():
    base = 2
 
    ostias tio xd
+
+   print ("arreglando bug")
