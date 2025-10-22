@@ -13,3 +13,4 @@ for i in range ():
    variable = 10
    print ()variable
    datos = {'hola', 'como', 'estas'}
+   apellido = {'cruz', 'sarzuri'}
