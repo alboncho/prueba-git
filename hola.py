@@ -15,3 +15,6 @@ for i in range ():
 
    datos = {'hola', 'como', 'estas'}
    apellido = {'cruz', 'sarzuri'}
+
+   numero = 10
+   base = 2
