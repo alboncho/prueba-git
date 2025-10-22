@@ -18,3 +18,5 @@ for i in range ():
 
    numero = 10
    base = 2
+
+   ostias tio xd
