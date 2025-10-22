@@ -14,3 +14,4 @@ for i in range ():
    print ()variable
 
    datos = {'hola', 'como', 'estas'}
+   apellido = {'cruz', 'sarzuri'}
